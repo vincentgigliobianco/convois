@@ -27,7 +27,7 @@ Nous attendons :
 # Question 2. : trajets pour chaque jour du véhicule n°57
 <img src="img/trajets_loc_garage.png" width="516">
 
-# Question 3. : localisation du garage principal du véhicule n°57
+# Question 2. : localisation du garage principal du véhicule n°57
 <img src="img/localisation_garage.png" width="516">
 
 # Auteur
