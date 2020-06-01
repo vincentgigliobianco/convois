@@ -1,4 +1,4 @@
-# Test technique ERCOM: détection de convois
+# Détection de convois à partir d'une flotte de véhicules
 
 ### Enoncé
 Les jeux de données représentent les positions d’une flotte d’une centaine de véhicules durant cinq jours, du 1er au 5 Mai 2019 :
