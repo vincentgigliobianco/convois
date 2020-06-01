@@ -26,7 +26,7 @@ Lorsqu’un véhicule se déplace, on dispose d’un point toutes les dix second
 #### Question 1. : graphe des trajets avec vitesse élevées (on est dans Paris !)
 <img src="img/trajets_AR.png" width="516">
 
-#### Question 2. : trajets pour chaque jour du véhicule n°57 (cette fois, on est dans la ville de Toulouse!) 
+#### Question 2. : trajets pour chaque jour du véhicule n°57 (cette fois, on est dans la ville de Toulouse !) 
 <img src="img/trajets_loc_garage.png" width="516">
 
 #### Question 2. : localisation précise du garage principal du véhicule n°57
