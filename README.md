@@ -23,10 +23,10 @@ Lorsqu’un véhicule se déplace, on dispose d’un point toutes les dix second
  * Un moyen de reproduire votre environnement de travail afin de pouvoir rejouer facilement votre code (un fichier yml pour Python ou bien la liste des packages pour R).
 
 
-#### Question 1. : graphe des trajets avec vitesse élevées
+#### Question 1. : graphe des trajets avec vitesse élevées (on est dans Paris !)
 <img src="img/trajets_AR.png" width="516">
 
-#### Question 2. : trajets dans Toulouse pour chaque jour du véhicule n°57
+#### Question 2. : trajets pour chaque jour du véhicule n°57 (cette fois, on est dans la ville de Toulouse!) 
 <img src="img/trajets_loc_garage.png" width="516">
 
 #### Question 2. : localisation précise du garage principal du véhicule n°57
